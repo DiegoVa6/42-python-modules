@@ -1,0 +1,8 @@
+.env
+
+__pychache__/
+*.pyc
+
+venv/
+.venv/
+matrix_env/
