@@ -128,8 +128,3 @@ This repository is meant to reflect:
 
 This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for more details.
-
-```
-
-Pequeño consejo final: cambiaría el nombre visible del repo a **`42-python-modules`** en GitHub si aún no lo has dejado exactamente así, y luego pondría un **About** corto y limpio para rematarlo.
-```
